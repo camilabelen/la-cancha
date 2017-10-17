@@ -1,0 +1,80 @@
+.soccer-field{
+	width: 1000px;
+	height: 500px;
+	background-color: #7CBB7A;
+	position: relative;
+}
+
+.borderline{
+	width: 970px;
+	height: 470px;
+	background-color: #7CBB7A;
+	border: 5px solid #FFF;
+	position: relative;
+	top: 10px;
+	left: 10px;
+
+}
+
+.football-bow-left{
+	width: 100px;
+	height: 200px;
+	background-color: #7CBB7A;
+	border: 5px solid #FFF;
+	border-left: 0;
+	position: absolute;
+	top: 130px;
+
+}
+
+.football-bow-right{
+	width: 100px;
+	height: 200px;
+	background-color: #7CBB7A;
+	border: 5px solid #FFF;
+	border-right: 0;
+	position: absolute;
+	top: 130px;
+	right: 0;
+}
+
+.circle {
+     width: 200px;
+     height: 200px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     border: 5px solid #FFF;
+     background: #7CBB7A;
+     position: absolute;
+     top: 130px;
+     left: 380px;
+}
+
+.first-ball{
+	background-image: url(../img/ball.png);
+	width: 20px;
+	height: 20px;
+	background-size: 100%;
+	position:absolute;
+	margin: 135px 90px;
+}
+
+.second-ball{
+	background-image: url(../img/ball.png);
+	width: 20px;
+	height: 20px;
+	background-size: 100%;
+	position: absolute;
+	margin: 55px 495px;
+}
+
+.third-ball{
+	background-image: url(../img/ball.png);
+	width: 20px;
+	height: 20px;
+	background-size: 100%;
+	position: absolute;
+	margin: 300px 835px;
+}
+
