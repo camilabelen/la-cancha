@@ -39,20 +39,20 @@
 }
 
 .circle {
-     width: 200px;
-     height: 200px;
-     -moz-border-radius: 50%;
-     -webkit-border-radius: 50%;
-     border-radius: 50%;
-     border: 5px solid #FFF;
-     background: #7CBB7A;
-     position: absolute;
-     top: 130px;
-     left: 380px;
+    width: 200px;
+    height: 200px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 5px solid #FFF;
+    background: #7CBB7A;
+    position: absolute;
+    top: 130px;
+    left: 380px;
 }
 
 .first-ball{
-	background-image: url(../img/ball.png);
+	background-image: url(../img/ball-.png);
 	width: 20px;
 	height: 20px;
 	background-size: 100%;
@@ -61,7 +61,7 @@
 }
 
 .second-ball{
-	background-image: url(../img/ball.png);
+	background-image: url(../img/ball-.png);
 	width: 20px;
 	height: 20px;
 	background-size: 100%;
@@ -70,7 +70,7 @@
 }
 
 .third-ball{
-	background-image: url(../img/ball.png);
+	background-image: url(../img/ball-.png);
 	width: 20px;
 	height: 20px;
 	background-size: 100%;
